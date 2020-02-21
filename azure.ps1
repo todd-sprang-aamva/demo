@@ -1,8 +1,8 @@
 $region = 'eastus'
-$rg = 'tcs-demo-dev-rg'
-$svcPlan = 'tcs-demo-svcplan-dev'
-$webApp = 'tcs-demo-webapp-dev-01'
-$aciWebApp = 'tcs-demo-webapp-dev-02'
+$rg = 'tcs-dev-rg'
+$svcPlan = 'tcs-dev-asp'
+$webApp = 'tcs-dev-webapp-01'
+$aciWebApp = 'tcs-dev-webapp-02'
 
 az login
 
